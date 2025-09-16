@@ -11,4 +11,16 @@ This repository contains my solutions to various LeetCode problems, primarily so
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0001-two-sum) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
