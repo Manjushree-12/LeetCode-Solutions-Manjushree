@@ -23,4 +23,16 @@ This repository contains my solutions to various LeetCode problems, primarily so
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0002-add-two-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0005-longest-palindromic-substring) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
