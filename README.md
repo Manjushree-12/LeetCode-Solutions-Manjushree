@@ -7,6 +7,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0014-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0020-valid-parentheses) |
 ## Dynamic Programming
 |  |
@@ -45,4 +47,8 @@ This repository contains my solutions to various LeetCode problems, primarily so
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0020-valid-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
