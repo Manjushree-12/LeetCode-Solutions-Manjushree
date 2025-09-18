@@ -8,6 +8,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | ------- |
 | [0001-two-sum](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0015-3sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0015-3sum) |
 ## String
 |  |
 | ------- |
@@ -51,4 +53,8 @@ This repository contains my solutions to various LeetCode problems, primarily so
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
