@@ -7,6 +7,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0016-3sum-closest) |
@@ -69,4 +70,12 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0015-3sum](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0018-4sum) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
