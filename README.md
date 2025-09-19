@@ -20,6 +20,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Math
 |  |
 | ------- |
@@ -38,6 +39,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0015-3sum](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## String
 |  |
 | ------- |
