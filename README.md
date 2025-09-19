@@ -21,6 +21,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | ------- |
 | [0002-add-two-numbers](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0021-merge-two-sorted-lists) |
 ## Math
 |  |
 | ------- |
@@ -32,6 +33,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0021-merge-two-sorted-lists) |
 ## Two Pointers
 |  |
 | ------- |
