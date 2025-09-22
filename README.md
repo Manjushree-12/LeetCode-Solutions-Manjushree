@@ -14,6 +14,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0018-4sum](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0031-next-permutation) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
@@ -52,6 +53,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0031-next-permutation) |
 ## String
 |  |
 | ------- |
