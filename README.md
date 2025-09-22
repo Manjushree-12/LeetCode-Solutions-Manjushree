@@ -12,11 +12,13 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0015-3sum](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0018-4sum) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0013-roman-to-integer) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Linked List
 |  |
 | ------- |
@@ -78,4 +80,8 @@ This repository contains my solutions to various LeetCode problems, primarily so
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0004-median-of-two-sorted-arrays) |
+## Counting
+|  |
+| ------- |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/3242-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
