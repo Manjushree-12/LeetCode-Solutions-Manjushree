@@ -16,6 +16,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0027-remove-element](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0035-search-insert-position) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
@@ -86,6 +87,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0035-search-insert-position) |
 ## Divide and Conquer
 |  |
 | ------- |
