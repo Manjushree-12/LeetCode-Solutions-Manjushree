@@ -13,6 +13,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0016-3sum-closest](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0027-remove-element) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
@@ -49,6 +50,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0018-4sum](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0027-remove-element) |
 ## String
 |  |
 | ------- |
