@@ -21,6 +21,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0037-sudoku-solver](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0042-trapping-rain-water) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
@@ -62,6 +63,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0027-remove-element](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0042-trapping-rain-water) |
 ## String
 |  |
 | ------- |
@@ -74,10 +76,12 @@ This repository contains my solutions to various LeetCode problems, primarily so
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0042-trapping-rain-water) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0042-trapping-rain-water) |
 ## Trie
 |  |
 | ------- |
@@ -117,4 +121,8 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0037-sudoku-solver](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0040-combination-sum-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
