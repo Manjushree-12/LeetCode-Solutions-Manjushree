@@ -20,6 +20,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0036-valid-sudoku](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0040-combination-sum-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
@@ -115,4 +116,5 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | ------- |
 | [0037-sudoku-solver](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
