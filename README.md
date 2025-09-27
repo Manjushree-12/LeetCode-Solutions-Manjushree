@@ -23,6 +23,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0040-combination-sum-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0048-rotate-image) |
 | [0830-largest-triangle-area](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0830-largest-triangle-area) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Hash Table
@@ -47,6 +48,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0007-reverse-integer](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0048-rotate-image) |
 | [0830-largest-triangle-area](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0830-largest-triangle-area) |
 ## Recursion
 |  |
@@ -118,6 +120,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | ------- |
 | [0036-valid-sudoku](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0048-rotate-image) |
 ## Backtracking
 |  |
 | ------- |
