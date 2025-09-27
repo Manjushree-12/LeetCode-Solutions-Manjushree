@@ -22,6 +22,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0039-combination-sum](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0042-trapping-rain-water) |
+| [0830-largest-triangle-area](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0830-largest-triangle-area) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
@@ -45,6 +46,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0007-reverse-integer](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0013-roman-to-integer) |
+| [0830-largest-triangle-area](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0830-largest-triangle-area) |
 ## Recursion
 |  |
 | ------- |
@@ -125,4 +127,8 @@ This repository contains my solutions to various LeetCode problems, primarily so
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0042-trapping-rain-water) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
