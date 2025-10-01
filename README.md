@@ -49,6 +49,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0009-palindrome-number](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0050-powx-n) |
 | [0830-largest-triangle-area](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0830-largest-triangle-area) |
 | [1642-water-bottles](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/1642-water-bottles) |
 ## Recursion
@@ -57,6 +58,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0002-add-two-numbers](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0050-powx-n) |
 ## Two Pointers
 |  |
 | ------- |
