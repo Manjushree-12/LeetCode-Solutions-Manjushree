@@ -25,6 +25,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0046-permutations](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0053-maximum-subarray) |
 | [0830-largest-triangle-area](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0830-largest-triangle-area) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Hash Table
@@ -86,6 +87,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0053-maximum-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -111,6 +113,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0053-maximum-subarray) |
 ## Counting
 |  |
 | ------- |
