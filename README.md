@@ -50,6 +50,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0013-roman-to-integer](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0048-rotate-image) |
 | [0830-largest-triangle-area](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0830-largest-triangle-area) |
+| [1642-water-bottles](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/1642-water-bottles) |
 ## Recursion
 |  |
 | ------- |
@@ -136,4 +137,8 @@ This repository contains my solutions to various LeetCode problems, primarily so
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0830-largest-triangle-area) |
+## Simulation
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->
