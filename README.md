@@ -54,6 +54,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0050-powx-n](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0050-powx-n) |
 | [0830-largest-triangle-area](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0830-largest-triangle-area) |
 | [1642-water-bottles](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/1642-water-bottles) |
+| [3336-water-bottles-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/3336-water-bottles-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -148,4 +149,5 @@ This repository contains my solutions to various LeetCode problems, primarily so
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/1642-water-bottles) |
+| [3336-water-bottles-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/3336-water-bottles-ii) |
 <!---LeetCode Topics End-->
