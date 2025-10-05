@@ -58,6 +58,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0050-powx-n](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0067-add-binary) |
 | [0830-largest-triangle-area](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0830-largest-triangle-area) |
 | [1642-water-bottles](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/1642-water-bottles) |
 | [3336-water-bottles-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/3336-water-bottles-ii) |
@@ -91,6 +92,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0020-valid-parentheses](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0067-add-binary) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -158,10 +160,15 @@ This repository contains my solutions to various LeetCode problems, primarily so
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0067-add-binary) |
 | [1642-water-bottles](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/1642-water-bottles) |
 | [3336-water-bottles-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/3336-water-bottles-ii) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0062-unique-paths) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
