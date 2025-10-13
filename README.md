@@ -171,4 +171,20 @@ This repository contains my solutions to various LeetCode problems, primarily so
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0067-add-binary) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
