@@ -29,6 +29,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0056-merge-intervals](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0118-pascals-triangle) |
 | [0830-largest-triangle-area](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0830-largest-triangle-area) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Hash Table
@@ -100,6 +101,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0042-trapping-rain-water](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0062-unique-paths) |
+| [0118-pascals-triangle](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0118-pascals-triangle) |
 ## Stack
 |  |
 | ------- |
