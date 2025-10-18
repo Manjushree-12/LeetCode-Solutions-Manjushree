@@ -86,6 +86,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0031-next-permutation](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0125-valid-palindrome) |
 ## String
 |  |
 | ------- |
@@ -96,6 +97,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
