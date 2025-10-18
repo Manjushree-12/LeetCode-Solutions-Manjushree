@@ -31,6 +31,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0066-plus-one](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0830-largest-triangle-area](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0830-largest-triangle-area) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Hash Table
@@ -104,6 +105,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0062-unique-paths](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
 | ------- |
