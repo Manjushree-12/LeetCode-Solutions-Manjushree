@@ -212,4 +212,8 @@ This repository contains my solutions to various LeetCode problems, primarily so
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0070-climbing-stairs) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
