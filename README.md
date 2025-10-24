@@ -62,6 +62,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0062-unique-paths](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0070-climbing-stairs) |
 | [0830-largest-triangle-area](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0830-largest-triangle-area) |
 | [1642-water-bottles](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/1642-water-bottles) |
 | [3336-water-bottles-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/3336-water-bottles-ii) |
@@ -105,6 +106,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0042-trapping-rain-water](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -206,4 +208,8 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0101-symmetric-tree](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0110-balanced-binary-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
