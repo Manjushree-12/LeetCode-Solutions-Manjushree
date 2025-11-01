@@ -34,6 +34,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0830-largest-triangle-area](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0830-largest-triangle-area) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,6 +43,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0036-valid-sudoku](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0037-sudoku-solver) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Linked List
 |  |
 | ------- |
@@ -50,6 +52,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0021-merge-two-sorted-lists](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0061-rotate-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
 | ------- |
