@@ -195,6 +195,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0101-symmetric-tree](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -202,12 +203,14 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0101-symmetric-tree](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -215,6 +218,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0101-symmetric-tree](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0112-path-sum) |
 ## Memoization
 |  |
 | ------- |
