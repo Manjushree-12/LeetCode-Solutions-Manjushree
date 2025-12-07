@@ -68,6 +68,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0070-climbing-stairs](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0326-power-of-three) |
 | [0830-largest-triangle-area](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0830-largest-triangle-area) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1642-water-bottles](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/1642-water-bottles) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/2288-count-operations-to-obtain-zero) |
 | [3336-water-bottles-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/3336-water-bottles-ii) |
