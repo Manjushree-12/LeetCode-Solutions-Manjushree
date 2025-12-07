@@ -227,4 +227,5 @@ This repository contains my solutions to various LeetCode problems, primarily so
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0175-combine-two-tables) |
+| [0182-duplicate-emails](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
