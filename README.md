@@ -35,6 +35,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0830-largest-triangle-area](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0840-magic-squares-in-grid) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
@@ -143,6 +144,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0004-median-of-two-sorted-arrays](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0035-search-insert-position) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -164,6 +166,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0037-sudoku-solver](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0048-rotate-image) |
 | [0840-magic-squares-in-grid](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0840-magic-squares-in-grid) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Backtracking
 |  |
 | ------- |
