@@ -36,6 +36,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0830-largest-triangle-area](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0994-rotting-oranges](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/1390-four-divisors) |
 | [1975-maximum-matrix-sum](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/1975-maximum-matrix-sum) |
@@ -174,6 +175,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0037-sudoku-solver](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0048-rotate-image) |
 | [0840-magic-squares-in-grid](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0840-magic-squares-in-grid) |
+| [0994-rotting-oranges](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/1975-maximum-matrix-sum) |
 ## Backtracking
@@ -233,6 +235,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0101-symmetric-tree](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0112-path-sum) |
+| [0994-rotting-oranges](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
