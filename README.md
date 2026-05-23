@@ -29,6 +29,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0056-merge-intervals](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0073-set-matrix-zeroes) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0119-pascals-triangle-ii) |
@@ -49,6 +50,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0013-roman-to-integer](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0073-set-matrix-zeroes) |
 | [0840-magic-squares-in-grid](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -174,6 +176,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0036-valid-sudoku](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0073-set-matrix-zeroes) |
 | [0840-magic-squares-in-grid](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0840-magic-squares-in-grid) |
 | [0994-rotting-oranges](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
