@@ -35,6 +35,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0118-pascals-triangle](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0830-largest-triangle-area](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -133,6 +134,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0118-pascals-triangle](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Stack
 |  |
 | ------- |
@@ -272,5 +274,6 @@ This repository contains my solutions to various LeetCode problems, primarily so
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1975-maximum-matrix-sum](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/1975-maximum-matrix-sum) |
 <!---LeetCode Topics End-->
