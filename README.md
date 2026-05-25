@@ -30,6 +30,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0057-insert-interval](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0119-pascals-triangle-ii) |
@@ -108,6 +109,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0031-next-permutation](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0125-valid-palindrome) |
 ## String
 |  |
@@ -147,6 +149,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0016-3sum-closest](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0075-sort-colors) |
 ## Binary Search
 |  |
 | ------- |
