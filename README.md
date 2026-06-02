@@ -37,6 +37,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0119-pascals-triangle-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0240-search-a-2d-matrix-ii) |
 | [0830-largest-triangle-area](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -160,6 +161,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0033-search-in-rotated-sorted-array](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0240-search-a-2d-matrix-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
@@ -169,6 +171,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0191-number-of-1-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0240-search-a-2d-matrix-ii) |
 ## Counting
 |  |
 | ------- |
@@ -185,6 +188,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0048-rotate-image](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0240-search-a-2d-matrix-ii) |
 | [0840-magic-squares-in-grid](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0840-magic-squares-in-grid) |
 | [0994-rotting-oranges](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
