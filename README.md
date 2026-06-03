@@ -38,6 +38,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0240-search-a-2d-matrix-ii) |
 | [0830-largest-triangle-area](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0840-magic-squares-in-grid) |
@@ -58,6 +59,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0037-sudoku-solver](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0229-majority-element-ii) |
 | [0840-magic-squares-in-grid](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -159,6 +161,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0056-merge-intervals](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0229-majority-element-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search
 |  |
@@ -184,6 +187,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0229-majority-element-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/3242-count-elements-with-maximum-frequency) |
 ## String Matching
 |  |
