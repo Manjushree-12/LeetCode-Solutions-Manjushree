@@ -47,6 +47,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/1390-four-divisors) |
 | [1975-maximum-matrix-sum](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/1975-maximum-matrix-sum) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/2404-most-frequent-even-element) |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
@@ -124,6 +125,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0061-rotate-list](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0125-valid-palindrome) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/2367-number-of-arithmetic-triplets) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## String
@@ -234,6 +236,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | ------- |
 | [0067-add-binary](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0067-add-binary) |
 | [1642-water-bottles](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/1642-water-bottles) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/2288-count-operations-to-obtain-zero) |
 | [3336-water-bottles-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/3336-water-bottles-ii) |
 ## Combinatorics
