@@ -49,6 +49,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [1975-maximum-matrix-sum](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/1975-maximum-matrix-sum) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/2404-most-frequent-even-element) |
+| [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
