@@ -80,6 +80,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0021-merge-two-sorted-lists](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0061-rotate-list) |
+| [0206-reverse-linked-list](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0206-reverse-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
@@ -110,6 +111,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0021-merge-two-sorted-lists](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0326-power-of-three) |
 ## Two Pointers
 |  |
