@@ -81,6 +81,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0025-reverse-nodes-in-k-group](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0206-reverse-linked-list) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
@@ -103,6 +104,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [1642-water-bottles](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/1642-water-bottles) |
 | [1925-count-square-sum-triples](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/1925-count-square-sum-triples) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/2288-count-operations-to-obtain-zero) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3336-water-bottles-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/3336-water-bottles-ii) |
 ## Recursion
 |  |
@@ -320,4 +322,8 @@ This repository contains my solutions to various LeetCode problems, primarily so
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0128-longest-consecutive-sequence) |
+## Number Theory
+|  |
+| ------- |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
