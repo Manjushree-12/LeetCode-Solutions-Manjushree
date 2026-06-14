@@ -81,6 +81,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0025-reverse-nodes-in-k-group](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0206-reverse-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/2487-remove-nodes-from-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -133,6 +134,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0061-rotate-list](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0125-valid-palindrome) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/2367-number-of-arithmetic-triplets) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -164,6 +166,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | ------- |
 | [0020-valid-parentheses](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0042-trapping-rain-water) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/2487-remove-nodes-from-linked-list) |
 ## Trie
 |  |
