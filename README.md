@@ -81,6 +81,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0025-reverse-nodes-in-k-group](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0206-reverse-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/2487-remove-nodes-from-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
@@ -115,6 +116,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0050-powx-n](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0326-power-of-three) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/2487-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -162,6 +164,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | ------- |
 | [0020-valid-parentheses](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0042-trapping-rain-water) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/2487-remove-nodes-from-linked-list) |
 ## Trie
 |  |
 | ------- |
@@ -233,6 +236,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0042-trapping-rain-water) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/2487-remove-nodes-from-linked-list) |
 ## Geometry
 |  |
 | ------- |
