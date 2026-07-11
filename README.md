@@ -146,6 +146,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0075-sort-colors](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -164,6 +165,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0125-valid-palindrome](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0345-reverse-vowels-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
