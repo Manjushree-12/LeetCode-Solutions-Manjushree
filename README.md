@@ -107,6 +107,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0231-power-of-two](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0342-power-of-four) |
 | [0830-largest-triangle-area](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0840-magic-squares-in-grid) |
 | [1390-four-divisors](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/1390-four-divisors) |
@@ -126,6 +127,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0206-reverse-linked-list](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0342-power-of-four) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/2487-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
@@ -277,6 +279,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0191-number-of-1-bits](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0342-power-of-four) |
 ## Tree
 |  |
 | ------- |
