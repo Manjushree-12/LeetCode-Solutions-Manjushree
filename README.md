@@ -102,6 +102,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0066-plus-one](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0326-power-of-three) |
 | [0830-largest-triangle-area](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0840-magic-squares-in-grid) |
@@ -120,6 +121,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0025-reverse-nodes-in-k-group](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0326-power-of-three) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/2487-remove-nodes-from-linked-list) |
 ## Two Pointers
@@ -268,6 +270,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0067-add-binary](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0231-power-of-two) |
 ## Tree
 |  |
 | ------- |
