@@ -39,6 +39,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0240-search-a-2d-matrix-ii) |
 | [0830-largest-triangle-area](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0830-largest-triangle-area) |
@@ -65,6 +66,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0073-set-matrix-zeroes](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0229-majority-element-ii) |
 | [0840-magic-squares-in-grid](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -335,4 +337,8 @@ This repository contains my solutions to various LeetCode problems, primarily so
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
