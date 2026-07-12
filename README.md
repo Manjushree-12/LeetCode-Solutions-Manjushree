@@ -70,6 +70,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0205-isomorphic-strings](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0229-majority-element-ii) |
+| [0264-ugly-number-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0268-missing-number) |
 | [0840-magic-squares-in-grid](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -106,6 +107,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0070-climbing-stairs](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0342-power-of-four) |
@@ -179,6 +181,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0119-pascals-triangle-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0264-ugly-number-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0264-ugly-number-ii) |
 ## Stack
 |  |
 | ------- |
@@ -360,4 +363,8 @@ This repository contains my solutions to various LeetCode problems, primarily so
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0219-contains-duplicate-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
