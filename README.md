@@ -106,6 +106,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0067-add-binary](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0268-missing-number) |
@@ -271,6 +272,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0258-add-digits) |
 | [1642-water-bottles](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/1642-water-bottles) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/2288-count-operations-to-obtain-zero) |
@@ -358,6 +360,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0258-add-digits) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Sliding Window
 |  |
