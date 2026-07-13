@@ -43,6 +43,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0229-majority-element-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0268-missing-number) |
+| [0724-find-pivot-index](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0724-find-pivot-index) |
 | [0830-largest-triangle-area](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -374,4 +375,8 @@ This repository contains my solutions to various LeetCode problems, primarily so
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0264-ugly-number-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
