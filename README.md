@@ -213,6 +213,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0033-search-in-rotated-sorted-array](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0074-search-a-2d-matrix) |
+| [0222-count-complete-tree-nodes](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0268-missing-number) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -287,6 +288,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0067-add-binary](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0342-power-of-four) |
@@ -299,6 +301,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -324,6 +327,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0222-count-complete-tree-nodes) |
 ## Memoization
 |  |
 | ------- |
