@@ -43,6 +43,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0229-majority-element-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0724-find-pivot-index) |
 | [0830-largest-triangle-area](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0840-magic-squares-in-grid) |
@@ -150,6 +151,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0061-rotate-list](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0876-middle-of-the-linked-list) |
