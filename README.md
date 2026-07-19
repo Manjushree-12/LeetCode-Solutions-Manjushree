@@ -118,6 +118,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0292-nim-game](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0342-power-of-four) |
+| [0415-add-strings](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0415-add-strings) |
 | [0830-largest-triangle-area](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0840-magic-squares-in-grid) |
 | [1390-four-divisors](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/1390-four-divisors) |
@@ -182,6 +183,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0387-first-unique-character-in-a-string](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0415-add-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -291,6 +293,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | ------- |
 | [0067-add-binary](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0415-add-strings) |
 | [1642-water-bottles](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/1642-water-bottles) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/2288-count-operations-to-obtain-zero) |
