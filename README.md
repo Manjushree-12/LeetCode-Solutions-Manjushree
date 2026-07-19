@@ -76,6 +76,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0268-missing-number](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0389-find-the-difference) |
 | [0840-magic-squares-in-grid](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/2367-number-of-arithmetic-triplets) |
@@ -178,6 +179,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0345-reverse-vowels-of-a-string](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0389-find-the-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -213,6 +215,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0169-majority-element](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0389-find-the-difference) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search
 |  |
@@ -303,6 +306,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0231-power-of-two](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0389-find-the-difference) |
 ## Tree
 |  |
 | ------- |
