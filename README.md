@@ -74,6 +74,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0229-majority-element-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0383-ransom-note) |
 | [0840-magic-squares-in-grid](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/2367-number-of-arithmetic-triplets) |
@@ -174,6 +175,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0205-isomorphic-strings](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0383-ransom-note) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -237,6 +239,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | ------- |
 | [0169-majority-element](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0383-ransom-note) |
 | [2404-most-frequent-even-element](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/2404-most-frequent-even-element) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/3242-count-elements-with-maximum-frequency) |
 ## String Matching
