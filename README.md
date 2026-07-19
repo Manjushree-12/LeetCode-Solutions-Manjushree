@@ -112,6 +112,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0263-ugly-number](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0342-power-of-four) |
 | [0830-largest-triangle-area](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0830-largest-triangle-area) |
@@ -381,4 +382,12 @@ This repository contains my solutions to various LeetCode problems, primarily so
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0724-find-pivot-index) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
