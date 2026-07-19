@@ -222,6 +222,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0222-count-complete-tree-nodes](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0268-missing-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0374-guess-number-higher-or-lower) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Divide and Conquer
@@ -393,4 +394,8 @@ This repository contains my solutions to various LeetCode problems, primarily so
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0292-nim-game) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
