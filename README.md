@@ -129,6 +129,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [2288-count-operations-to-obtain-zero](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/2288-count-operations-to-obtain-zero) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3336-water-bottles-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/3336-water-bottles-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -222,6 +223,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0229-majority-element-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0389-find-the-difference) |
+| [3536-maximum-product-of-two-digits](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search
 |  |
