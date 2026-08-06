@@ -426,4 +426,8 @@ This repository contains my solutions to various LeetCode problems, primarily so
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0387-first-unique-character-in-a-string) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
