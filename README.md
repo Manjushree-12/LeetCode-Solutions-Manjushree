@@ -39,6 +39,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0229-majority-element-ii) |
@@ -198,6 +199,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0119-pascals-triangle-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0392-is-subsequence) |
 ## Stack
