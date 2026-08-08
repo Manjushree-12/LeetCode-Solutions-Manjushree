@@ -46,6 +46,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0240-search-a-2d-matrix-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0349-intersection-of-two-arrays) |
 | [0724-find-pivot-index](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0724-find-pivot-index) |
 | [0830-largest-triangle-area](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0840-magic-squares-in-grid) |
@@ -77,6 +78,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0229-majority-element-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0389-find-the-difference) |
@@ -166,6 +168,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0283-move-zeroes](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -228,6 +231,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0169-majority-element](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0389-find-the-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -242,6 +246,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0222-count-complete-tree-nodes](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0374-guess-number-higher-or-lower) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
