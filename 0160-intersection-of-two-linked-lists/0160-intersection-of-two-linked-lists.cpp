@@ -13,9 +13,13 @@ public:
         ListNode* tempB=headB;
         while(tempA!=tempB)
         {
-             tempA=tempA?tempA->next:headB;
-             tempB=tempB?tempB->next:headA;
-           
+             
+            if(tempA==nullptr){ tempA=headB;}
+           else{  tempA=tempA->next; }
+            if(tempB==nullptr){ tempB=headA;}
+          else{
+            tempB=tempB->next;
+          }           
         }
         return tempB;
     }
