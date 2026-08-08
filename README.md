@@ -70,6 +70,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0037-sudoku-solver](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0128-longest-consecutive-sequence) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0219-contains-duplicate-ii) |
@@ -93,6 +94,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0021-merge-two-sorted-lists](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0061-rotate-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -159,6 +161,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0061-rotate-list](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0345-reverse-vowels-of-a-string) |
