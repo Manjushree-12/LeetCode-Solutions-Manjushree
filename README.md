@@ -187,6 +187,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0067-add-binary](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0205-isomorphic-strings) |
+| [0257-binary-tree-paths](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0383-ransom-note) |
@@ -295,6 +296,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0046-permutations](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0052-n-queens-ii) |
+| [0257-binary-tree-paths](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0257-binary-tree-paths) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -339,6 +341,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0110-balanced-binary-tree](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
 |  |
@@ -348,6 +351,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0104-maximum-depth-of-binary-tree](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0112-path-sum) |
+| [0257-binary-tree-paths](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0404-sum-of-left-leaves) |
 ## Breadth-First Search
 |  |
@@ -368,6 +372,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0110-balanced-binary-tree](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0404-sum-of-left-leaves) |
 ## Memoization
 |  |
