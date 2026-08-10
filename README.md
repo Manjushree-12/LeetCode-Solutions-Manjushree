@@ -41,6 +41,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0128-longest-consecutive-sequence](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0240-search-a-2d-matrix-ii) |
@@ -117,6 +118,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0066-plus-one](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0263-ugly-number) |
@@ -165,6 +167,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0075-sort-colors](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0345-reverse-vowels-of-a-string) |
