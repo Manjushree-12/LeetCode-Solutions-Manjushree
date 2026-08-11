@@ -453,4 +453,12 @@ This repository contains my solutions to various LeetCode problems, primarily so
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0020-valid-parentheses) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
