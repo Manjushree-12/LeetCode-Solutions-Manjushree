@@ -461,4 +461,12 @@ This repository contains my solutions to various LeetCode problems, primarily so
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0037-sudoku-solver) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
