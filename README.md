@@ -68,6 +68,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0037-sudoku-solver) |
@@ -182,6 +183,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0014-longest-common-prefix) |
@@ -420,6 +422,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0219-contains-duplicate-ii) |
 ## Heap (Priority Queue)
 |  |
