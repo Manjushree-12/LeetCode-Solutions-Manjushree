@@ -140,6 +140,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3336-water-bottles-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/3336-water-bottles-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/3536-maximum-product-of-two-digits) |
+| [3870-count-commas-in-range](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/3870-count-commas-in-range) |
 ## Recursion
 |  |
 | ------- |
