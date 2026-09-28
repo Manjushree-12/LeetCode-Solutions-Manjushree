@@ -202,6 +202,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0389-find-the-difference](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0415-add-strings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -222,6 +223,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | ------- |
 | [0020-valid-parentheses](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0042-trapping-rain-water) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/2487-remove-nodes-from-linked-list) |
 ## Trie
@@ -457,6 +459,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Algorithm X
 |  |
 | ------- |
