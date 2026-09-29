@@ -58,6 +58,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [1390-four-divisors](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/1390-four-divisors) |
 | [1975-maximum-matrix-sum](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/1975-maximum-matrix-sum) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/2404-most-frequent-even-element) |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
@@ -221,6 +222,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0264-ugly-number-ii](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0509-fibonacci-number) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Stack
 |  |
 | ------- |
@@ -300,6 +302,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | [0994-rotting-oranges](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/1975-maximum-matrix-sum) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Backtracking
 |  |
 | ------- |
@@ -464,6 +467,7 @@ This repository contains my solutions to various LeetCode problems, primarily so
 | ------- |
 | [0020-valid-parentheses](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Algorithm X
 |  |
 | ------- |
