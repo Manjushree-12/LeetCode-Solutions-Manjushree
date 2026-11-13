@@ -488,4 +488,16 @@ This repository contains my solutions to various LeetCode problems, primarily so
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0005-longest-palindromic-substring) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Manjushree-12/LeetCode-Solutions-Manjushree/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
